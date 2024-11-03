@@ -1,1 +1,1 @@
-# Namasthe React
+# React
